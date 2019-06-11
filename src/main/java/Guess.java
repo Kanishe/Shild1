@@ -6,5 +6,8 @@ public class Guess {
       System.out.print("Пoпытaйтecь ее угадать: ");
       ch = (char) System.in.read();// чтение символа с клавиатуры
       if (ch == answer) System.out.println(" **SUCCESS!**");
+      else {
+        System.out.println("Мимо");
+      }
     }
   }

@@ -5,11 +5,12 @@ public class Switch {
 
     switch (ch2) {
       case 'A':
-        System.out.print("Ветвь функции switch");
+        System.out.print("Ветвь функции switch" + ch2);
         break;
       case 'B':
         System.out.println("ksd");
-        break;
+
     }
+    System.out.println('A');
   }
 }
