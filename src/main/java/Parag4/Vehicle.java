@@ -1,4 +1,4 @@
-package Parag4;
+/*package Parag4;
 
 public class Vehicle {
   int passengers;//количество пассажиров
@@ -12,3 +12,4 @@ public class Vehicle {
     System.out.println( " Дальность - " + fuelcap * mpg +" миль "+" и пасажжиров- "+ passengers+ "штук");
   }
 }
+*/
