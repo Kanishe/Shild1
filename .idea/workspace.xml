@@ -4,7 +4,6 @@
     <list default="true" id="9b739dc8-7170-41a9-9de8-49d1057d1ef7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Parag4/AddMeth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parag4/AddMeth.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Parag4/AddMeth.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -143,7 +142,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="684" />
     <option name="width" value="756" />
     <option name="height" value="900" />
@@ -207,7 +206,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561319223071" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561319228113" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -365,7 +364,7 @@
       <workItem from="1560454363439" duration="3599000" />
       <workItem from="1560676570655" duration="3757000" />
       <workItem from="1561040098268" duration="106000" />
-      <workItem from="1561318419093" duration="589000" />
+      <workItem from="1561318419093" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1560161553194</created>
@@ -392,7 +391,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51836000" />
+    <option name="totallyTimeSpent" value="51974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="684" y="0" width="756" height="900" extended-state="0" />
@@ -705,7 +704,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Parag4/AddMeth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
