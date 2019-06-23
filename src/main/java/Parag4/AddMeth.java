@@ -1,4 +1,4 @@
-/*package Parag4;
+package Parag4;
 
 public class AddMeth {
   public static void main(String[] args) {
@@ -23,4 +23,3 @@ public class AddMeth {
     sportcar.range();
   }
 }
-*/
