@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a4c2e1-2191-4260-83f3-9f2a9514398d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/glava6/AccessDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/glava6/MeClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,17 +53,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
                 <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ScopeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glava6/MeClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/glava6/AccessDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -116,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/main/java/generics/JenericExampl.java" />
         <option value="$PROJECT_DIR$/src/main/java/generics/GenericExampl.java" />
         <option value="$PROJECT_DIR$/src/main/java/generics/GenericExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/glava6/MeClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/glava6/AccessDemo.java" />
       </list>
     </option>
   </component>
@@ -138,8 +171,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="174" />
+    <option name="x" value="377" />
     <option name="width" value="1059" />
     <option name="height" value="900" />
   </component>
@@ -182,7 +214,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="glava6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +225,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562788178168" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562875372252" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -204,11 +236,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Konstructor" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="generics" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="generics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -223,13 +255,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericExampl">
-    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Glava5.Bubble" />
+  <component name="RunManager" selected="Application.AccessDemo">
+    <configuration name="AccessDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="glava6.AccessDemo" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Glava5.*" />
+          <option name="PATTERN" value="glava6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccessDemo" />
         <item itemvalue="Application.GenericExampl" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Duck" />
         <item itemvalue="Application.StrOps" />
-        <item itemvalue="Application.Bubble" />
       </list>
     </recent_temporary>
   </component>
@@ -316,15 +348,16 @@
       <workItem from="1562524329946" duration="3461000" />
       <workItem from="1562614673456" duration="4211000" />
       <workItem from="1562699037493" duration="1174000" />
-      <workItem from="1562785692597" duration="1728000" />
+      <workItem from="1562785692597" duration="2173000" />
+      <workItem from="1562874469950" duration="805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46165000" />
+    <option name="totallyTimeSpent" value="47415000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="174" width="1059" height="900" extended-state="0" />
+    <frame x="413" y="45" width="1059" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -333,7 +366,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3284169" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.3470993" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3539823" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -343,7 +376,7 @@
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.36050954" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.36050954" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.39745224" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -619,14 +652,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="315">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
             <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ScopeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glava6/MeClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glava6/AccessDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
         </state>
       </provider>
     </entry>
