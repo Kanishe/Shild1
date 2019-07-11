@@ -12,7 +12,6 @@ class MeClass {
 void  setAlpha(int a){
   alpha=a;
 }
-
 int getAlpha(){
   return alpha;
 }
