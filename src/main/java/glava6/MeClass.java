@@ -9,7 +9,7 @@ class MeClass {
   // обращаться к закрытым членам того же класса .
 
 
-void  setAlpha(int a){
+ void setAlpha(int a){
   alpha=a;
 }
 int getAlpha(){
