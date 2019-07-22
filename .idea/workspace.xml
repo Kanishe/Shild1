@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a4c2e1-2191-4260-83f3-9f2a9514398d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/finalprimer/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/finalprimer/ErrorMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/finalprimer/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson6/OverLoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/static1/LessonStatic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/HowWorkWomen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/HowWorkWomen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/finalprimer/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/finalprimer/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/finalprimer/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/finalprimer/Test1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,106 +31,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/MyClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding>
-                <element signature="e#64#65#0" expanded="true" />
-                <element signature="e#77#78#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/VehConsDemo.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6/OverLoding.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding>
-                <element signature="e#58#59#0" expanded="true" />
-                <element signature="e#88#89#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/ErrorMsg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/HowWorkWomen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/generics/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/Kristina.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="137" selection-start-line="7" selection-start-column="137" selection-end-line="7" selection-end-column="137" />
             </state>
           </provider>
         </entry>
@@ -198,6 +109,8 @@
         <option value="$PROJECT_DIR$/src/main/java/finalprimer/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/finalprimer/ErrorMsg.java" />
         <option value="$PROJECT_DIR$/src/main/java/finalprimer/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/static1/LessonStatic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson6/OverLoding.java" />
       </list>
     </option>
   </component>
@@ -220,9 +133,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="548" />
-    <option name="y" value="24" />
-    <option name="width" value="1150" />
+    <option name="x" value="353" />
+    <option name="y" value="19" />
+    <option name="width" value="1204" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -231,8 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,7 +175,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finalprimer" type="462c0819:PsiDirectoryNode" />
+              <item name="dublimass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
@@ -274,16 +185,34 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repeatmetod" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563392795140" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563826772865" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -313,7 +242,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Application.OverLoding$OverLodingTest">
+    <configuration name="Babushka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeatmetod.Babushka" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeatmetod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ErrorMsg$FinalD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="finalprimer.ErrorMsg$FinalD" />
       <module name="Shild1" />
@@ -327,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kristina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Konstructor.Kristina" />
+    <configuration name="LessonStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static1.LessonStatic" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Konstructor.*" />
+          <option name="PATTERN" value="static1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassOb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="glava6.PassOb" />
+    <configuration name="OverLoding$OverLodingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.OverLoding$OverLodingTest" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="glava6.*" />
+          <option name="PATTERN" value="Lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,26 +308,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehConsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Konstructor.VehConsDemo" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Konstructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverLoding$OverLodingTest" />
+        <item itemvalue="Application.Babushka" />
+        <item itemvalue="Application.LessonStatic" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.ErrorMsg$FinalD" />
-        <item itemvalue="Application.VehConsDemo" />
-        <item itemvalue="Application.PassOb" />
-        <item itemvalue="Application.Kristina" />
       </list>
     </recent_temporary>
   </component>
@@ -409,6 +338,7 @@
       <workItem from="1562785692597" duration="2173000" />
       <workItem from="1562874469950" duration="1676000" />
       <workItem from="1563123549028" duration="6241000" />
+      <workItem from="1563825024444" duration="1597000" />
     </task>
     <task id="LOCAL-00001" summary="add new paragraf6">
       <created>1562875439296</created>
@@ -428,10 +358,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67899000" />
+    <option name="totallyTimeSpent" value="71651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="548" y="24" width="1150" height="900" extended-state="0" />
+    <frame x="353" y="19" width="1204" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -440,7 +370,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3284169" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.18050541" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1746988" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -682,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dublimass/DelDublMass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/glava6/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -718,20 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/BabushkaSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Babushka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -830,7 +739,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/testpack/Pack.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#77#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/VehConsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#88#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/ErrorMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/static1/LessonStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Babushka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/BabushkaSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dublimass/DelDublMass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -851,62 +845,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#77#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/testpack/Pack.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/VehConsDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6/OverLoding.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding>
-            <element signature="e#58#59#0" expanded="true" />
-            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/ErrorMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/finalprimer/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
 package finalprimer;
 
-public class Test1 {
+public  class  Test1 {
 
   public final int a;
 
