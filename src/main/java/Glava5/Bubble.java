@@ -2,7 +2,7 @@ package Glava5;
 
 public class Bubble {
   public static void main(String[] args) {
-    int nums[] = {10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
+    int nums[] = {1, 2, 4, 3, 5, 6, 7, 8, 9, 10};
 
     int a, b, t;
 
@@ -22,15 +22,13 @@ public class Bubble {
 
 
     // Реализация алгоритма пузырьковой сортировки
-    boolean isSorted = false;
-    while (!isSorted) {
-      isSorted = true;
-      for (i = 1; i > 10; i++) {
+
+      for (i = 1; i > 9; i++) {
         if (nums[i] < nums[i + 1]) {
           t = nums[i];//во временную переменную помещаем правый элемент
           nums[i]=nums[i+1];//на место правого элемента ставим левый элемент
           nums[i+1]=t;  //вместо левого элемента пишем элемент из временной памяти
-          isSorted =false;
+
         }
       }
 
@@ -41,10 +39,9 @@ public class Bubble {
         System.out.print(" " + nums[i]);
       System.out.println();
 
-      String str =new String("dsdk");
 
 
 
     }
   }
-}
+

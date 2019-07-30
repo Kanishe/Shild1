@@ -7,8 +7,6 @@ public class ArrayDemo {
     int i;
 
 
-
-
     for (i=0; i<10; i+=1) {
       sample[i] = i;
     }
