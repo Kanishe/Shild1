@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a4c2e1-2191-4260-83f3-9f2a9514398d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/massivrepeat/Multi_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,20 +28,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/massivrepeat/MassivTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/massivrepeat/Multi_arrays.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            <state relative-caret-position="315">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <folding>
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,8 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
-        <option value="$PROJECT_DIR$/src/test/java/Konstructor/CarTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Konstructor/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/main/java/Konstructor/VehConsDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Glava5/MinMax.java" />
@@ -119,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/main/java/sortdubl/MyClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/massivrepeat/MassivTest1.java" />
         <option value="$PROJECT_DIR$/src/main/java/massivrepeat/Multi_arrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repeatmetod/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" />
       </list>
     </option>
   </component>
@@ -141,7 +136,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
+    <option name="x" value="234" />
+    <option name="y" value="179" />
     <option name="width" value="1204" />
     <option name="height" value="900" />
   </component>
@@ -184,7 +180,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="massivrepeat" type="462c0819:PsiDirectoryNode" />
+              <item name="repeatmetod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,7 +191,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564516099460" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564688769589" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -226,7 +222,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Multi_arrays">
+  <component name="RunManager" selected="Application.ClassHumanSpeak">
+    <configuration name="ClassHumanSpeak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeatmetod.ClassHumanSpeak" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeatmetod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Mass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sortdubl.Mass" />
       <module name="Shild1" />
@@ -266,19 +275,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortDubl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortdubl.SortDubl" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortdubl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sortdubl.Test1" />
       <module name="Shild1" />
@@ -294,11 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassHumanSpeak" />
         <item itemvalue="Application.Multi_arrays" />
         <item itemvalue="Application.MassivTest1" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Mass" />
-        <item itemvalue="Application.SortDubl" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +321,7 @@
       <workItem from="1563825024444" duration="1597000" />
       <workItem from="1563993971240" duration="17000" />
       <workItem from="1564428456888" duration="85000" />
-      <workItem from="1564428569018" duration="5778000" />
+      <workItem from="1564428569018" duration="8806000" />
     </task>
     <task id="LOCAL-00001" summary="add new paragraf6">
       <created>1562875439296</created>
@@ -345,11 +341,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89382000" />
+    <option name="totallyTimeSpent" value="92410000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="0" width="1204" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="234" y="179" width="1204" height="900" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -596,13 +591,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Glava5/Frame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Perebors100do1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -951,6 +939,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/massivrepeat/Multi_arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/massivrepeat/MassivTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -958,10 +953,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/massivrepeat/Multi_arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="315">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
