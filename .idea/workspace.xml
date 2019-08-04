@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a4c2e1-2191-4260-83f3-9f2a9514398d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/ClassHumanSpeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/ClassHumanSpeak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/Person.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,13 +33,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="105">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding>
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,9 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Konstructor/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Konstructor/VehConsDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Glava5/MinMax.java" />
         <option value="$PROJECT_DIR$/src/main/java/Glava5/MinMax2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Glava5/Frame.java" />
         <option value="$PROJECT_DIR$/src/main/java/Glava5/StrOps.java" />
@@ -113,7 +115,10 @@
         <option value="$PROJECT_DIR$/src/main/java/massivrepeat/MassivTest1.java" />
         <option value="$PROJECT_DIR$/src/main/java/massivrepeat/Multi_arrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/repeatmetod/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repeatmetod/Person2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repeatmetod/Human.java" />
         <option value="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java" />
       </list>
     </option>
   </component>
@@ -136,8 +141,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="234" />
-    <option name="y" value="179" />
+    <option name="x" value="173" />
+    <option name="y" value="69" />
     <option name="width" value="1204" />
     <option name="height" value="900" />
   </component>
@@ -174,14 +179,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repeatmetod" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -191,13 +188,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564688769589" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564941431888" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -222,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassHumanSpeak">
+  <component name="RunManager" selected="Application.Comma">
     <configuration name="ClassHumanSpeak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="repeatmetod.ClassHumanSpeak" />
       <module name="Shild1" />
@@ -236,15 +233,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortdubl.Mass" />
+    <configuration name="Comma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comma" />
       <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sortdubl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -275,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortdubl.Test1" />
+    <configuration name="SomeClassForTestSetAndGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setandget.SomeClassForTestSetAndGet" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortdubl.*" />
+          <option name="PATTERN" value="setandget.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,13 +281,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comma" />
+        <item itemvalue="Application.SomeClassForTestSetAndGet" />
         <item itemvalue="Application.ClassHumanSpeak" />
         <item itemvalue="Application.Multi_arrays" />
         <item itemvalue="Application.MassivTest1" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Mass" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_NON_PUBLIC" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -321,7 +315,7 @@
       <workItem from="1563825024444" duration="1597000" />
       <workItem from="1563993971240" duration="17000" />
       <workItem from="1564428456888" duration="85000" />
-      <workItem from="1564428569018" duration="8806000" />
+      <workItem from="1564428569018" duration="15145000" />
     </task>
     <task id="LOCAL-00001" summary="add new paragraf6">
       <created>1562875439296</created>
@@ -341,10 +335,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92410000" />
+    <option name="totallyTimeSpent" value="98749000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="234" y="179" width="1204" height="900" extended-state="0" />
+    <frame x="118" y="432" width="1204" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -359,7 +354,7 @@
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32738853" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.36050954" />
@@ -369,7 +364,7 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Database" order="2" weight="0.08357915" />
+      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.08347677" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.32940018" />
@@ -591,22 +586,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Perebors100do1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Glava5/MinMax2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/Swimmeble.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/Tuple3.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/StringTripl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/Tuple.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -826,20 +805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Babushka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/BabushkaSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dublimass/DelDublMass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -953,13 +918,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Person2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/BabushkaSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Babushka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="251">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding>
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
           </folding>
         </state>
       </provider>

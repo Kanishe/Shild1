@@ -8,6 +8,10 @@ public class ClassHumanSpeak {
     person.age=25;
     person.speak();
     person.speakInEnglish();
+    person.calculateYersToBeaJavaDevelop();
+    int yeartostadyjava=person.iNeedTimeForPractice();
+
+    System.out.println(yeartostadyjava);
 
   }
 }
@@ -15,6 +19,17 @@ public class ClassHumanSpeak {
   class Person {
     String name;
     int age;
+
+    void calculateYersToBeaJavaDevelop(){
+      int years = age-23;
+      System.out.println("When i will be a JavaDevelop - " + years + " years");
+    }
+
+    int iNeedTimeForPractice(){
+      int yeartostady= 25-2;
+      return yeartostady;
+    }
+    
 
 
     void speak() {
