@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a4c2e1-2191-4260-83f3-9f2a9514398d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/keywordsThis/Homosapians.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/ClassHumanSpeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/ClassHumanSpeak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/Person.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,14 +29,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/keywordsThis/Homosapians.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="60">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
               <folding>
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Glava5/MinMax2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Glava5/Frame.java" />
         <option value="$PROJECT_DIR$/src/main/java/Glava5/StrOps.java" />
         <option value="$PROJECT_DIR$/src/main/java/interfase/Swimmeble.java" />
@@ -119,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/main/java/repeatmetod/Human.java" />
         <option value="$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java" />
         <option value="$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/keywordsThis/Homosapians.java" />
       </list>
     </option>
   </component>
@@ -188,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564941431888" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564946694997" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -219,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Comma">
+  <component name="RunManager" selected="Application.Homosapians">
     <configuration name="ClassHumanSpeak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="repeatmetod.ClassHumanSpeak" />
       <module name="Shild1" />
@@ -240,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MassivTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="massivrepeat.MassivTest1" />
+    <configuration name="Homosapians" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="keywordsThis.Homosapians" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="massivrepeat.*" />
+          <option name="PATTERN" value="keywordsThis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,16 +282,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homosapians" />
         <item itemvalue="Application.Comma" />
         <item itemvalue="Application.SomeClassForTestSetAndGet" />
         <item itemvalue="Application.ClassHumanSpeak" />
         <item itemvalue="Application.Multi_arrays" />
-        <item itemvalue="Application.MassivTest1" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_NON_PUBLIC" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_FIELDS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -315,7 +316,7 @@
       <workItem from="1563825024444" duration="1597000" />
       <workItem from="1563993971240" duration="17000" />
       <workItem from="1564428456888" duration="85000" />
-      <workItem from="1564428569018" duration="15145000" />
+      <workItem from="1564428569018" duration="18633000" />
     </task>
     <task id="LOCAL-00001" summary="add new paragraf6">
       <created>1562875439296</created>
@@ -335,11 +336,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98749000" />
+    <option name="totallyTimeSpent" value="102237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="432" width="1204" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="173" y="69" width="1204" height="900" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -586,7 +586,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/StringTripl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/Tuple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -717,13 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Comma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -964,14 +956,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Comma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="e#513#514#0" expanded="true" />
             <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/keywordsThis/Homosapians.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
           </folding>
         </state>
       </provider>
