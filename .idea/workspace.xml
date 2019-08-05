@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a4c2e1-2191-4260-83f3-9f2a9514398d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repeatStatic/Lesson21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,21 +27,23 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/repeatStatic/Lesson21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-62">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="178">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Glava5/StrOps.java" />
         <option value="$PROJECT_DIR$/src/main/java/interfase/Swimmeble.java" />
         <option value="$PROJECT_DIR$/src/main/java/interfase/Telegram.java" />
         <option value="$PROJECT_DIR$/src/main/java/interfase/Messengers.java" />
@@ -120,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/main/java/setandget/SomeClassForTestSetAndGet.java" />
         <option value="$PROJECT_DIR$/src/main/java/keywordsThis/Homosapians.java" />
         <option value="$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repeatStatic/Lesson21.java" />
       </list>
     </option>
   </component>
@@ -142,8 +144,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="298" />
-    <option name="y" value="141" />
+    <option name="x" value="236" />
     <option name="width" value="1204" />
     <option name="height" value="900" />
   </component>
@@ -153,8 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,24 +179,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564950059249" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565036215267" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -209,11 +202,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Konstructor" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="generics" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="generics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,20 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Homo">
-    <configuration name="ClassHumanSpeak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repeatmetod.ClassHumanSpeak" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="repeatmetod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lesson21">
     <configuration name="Comma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Comma" />
       <module name="Shild1" />
@@ -275,6 +255,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repeatStatic.Lesson21" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repeatStatic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SomeClassForTestSetAndGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="setandget.SomeClassForTestSetAndGet" />
       <module name="Shild1" />
@@ -290,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson21" />
         <item itemvalue="Application.Homo" />
         <item itemvalue="Application.Homosapians" />
         <item itemvalue="Application.Comma" />
         <item itemvalue="Application.SomeClassForTestSetAndGet" />
-        <item itemvalue="Application.ClassHumanSpeak" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +317,9 @@
       <workItem from="1563825024444" duration="1597000" />
       <workItem from="1563993971240" duration="17000" />
       <workItem from="1564428456888" duration="85000" />
-      <workItem from="1564428569018" duration="21720000" />
+      <workItem from="1564428569018" duration="22490000" />
+      <workItem from="1565032942609" duration="29000" />
+      <workItem from="1565034044699" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="add new paragraf6">
       <created>1562875439296</created>
@@ -344,10 +339,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105324000" />
+    <option name="totallyTimeSpent" value="108177000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="298" y="141" width="1204" height="900" extended-state="0" />
+    <frame x="236" y="0" width="1204" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -355,8 +351,8 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Learn" order="4" weight="0.3284169" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49402392" visible="true" weight="0.18244407" />
-      <window_info id="Structure" order="7" sideWeight="0.5059761" side_tool="true" visible="true" weight="0.18244407" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49203187" visible="true" weight="0.18760757" />
+      <window_info id="Structure" order="7" sideWeight="0.5079681" side_tool="true" visible="true" weight="0.18760757" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
@@ -372,7 +368,7 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.08347677" />
+      <window_info anchor="right" id="Database" order="2" visible="true" weight="0.042168673" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.32940018" />
@@ -594,13 +590,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ScopeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/glava6/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -898,20 +887,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Person2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Person2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/BabushkaSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -926,17 +903,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Human.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/ClassHumanSpeak.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -990,6 +957,25 @@
             <element signature="e#667#668#0" expanded="true" />
             <element signature="e#705#706#0" expanded="true" />
             <element signature="e#731#732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/repeatStatic/Lesson21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
           </folding>
         </state>
       </provider>
