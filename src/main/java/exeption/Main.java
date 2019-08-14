@@ -4,7 +4,6 @@ package exeption;
 public class Main {
   public static void main(String[] args) {
     ErrorExapleNullPoiter errorExapleNullPoiter =new ErrorExapleNullPoiter();
-    Throwable
     try {
       errorExapleNullPoiter.show();
       System.err.println(1/0);
