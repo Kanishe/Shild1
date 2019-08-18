@@ -8,6 +8,8 @@ public class Test {
     test(animal);
     test(dog);
     test(cat);
+    dog.bark();
+
 
 
 
