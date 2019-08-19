@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a80c0f9-433e-422b-a3dd-a1e75be2bdcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/equalsstringpool/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/equalsstringpool/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/writetofile/WriteToFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractclass/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractclass/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractclass/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractclass/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractclass/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractclass/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractclass/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractclass/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/innerclasses/ElectroCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/innerclasses/ElectroCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/innerclasses/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/innerclasses/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,85 +19,14 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/equalsstringpool/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-              <folding>
-                <element signature="e#65#66#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/AnimalHunter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/writetofile/WriteToFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
-                <element signature="e#116#236#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-              <folding>
-                <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding>
-                <element signature="e#74#75#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/equalsstringpool/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#101#102#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,6 +75,9 @@
         <option value="$PROJECT_DIR$/src/main/java/abstractclass/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/equalsstringpool/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/equalsstringpool/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/innerclasses/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/innerclasses/ElectroCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/writetofile/WriteToFile.java" />
       </list>
     </option>
   </component>
@@ -160,8 +89,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="166" />
-    <option name="y" value="66" />
+    <option name="x" value="236" />
     <option name="width" value="1204" />
     <option name="height" value="900" />
   </component>
@@ -171,6 +99,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,18 +118,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566159785715" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566246012840" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -220,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.WriteToFile">
     <configuration name="Exeption4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exeption.exeptionparttwo.chekedandunchekedexeption.Exeption4" />
       <module name="Shild1" />
@@ -260,19 +195,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExeptionsTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exeption.exeptionparttwo.ExeptionsTwo" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exeption.exeptionparttwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="equalsstringpool.Test" />
       <module name="Shild1" />
@@ -286,20 +208,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writetofile.WriteToFile" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writetofile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ExeptionsTwo" />
       <item itemvalue="Application.ExeptionThee" />
       <item itemvalue="Application.Exeption4" />
       <item itemvalue="Application.Exeption5" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.WriteToFile" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WriteToFile" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Exeption5" />
         <item itemvalue="Application.Exeption4" />
         <item itemvalue="Application.ExeptionThee" />
-        <item itemvalue="Application.ExeptionsTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +257,8 @@
       <workItem from="1566081400341" duration="91000" />
       <workItem from="1566081603288" duration="107000" />
       <workItem from="1566082152250" duration="71000" />
-      <workItem from="1566129214083" duration="15259000" />
+      <workItem from="1566129214083" duration="17453000" />
+      <workItem from="1566245322866" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="FIX">
       <created>1565816260082</created>
@@ -342,12 +278,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28244000" />
+    <option name="totallyTimeSpent" value="30835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="166" y="66" width="1204" height="900" extended-state="0" />
+    <frame x="236" y="0" width="1204" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28829604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29345956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -357,7 +294,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -656,6 +593,34 @@
           <folding>
             <element signature="e#116#236#0" expanded="true" />
             <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/innerclasses/ElectroCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/innerclasses/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/writetofile/WriteToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
