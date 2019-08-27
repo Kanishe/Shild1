@@ -2,11 +2,150 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a80c0f9-433e-422b-a3dd-a1e75be2bdcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/lesson1/arraylist/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/collection/lesson1/MassivArry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collection/l2/LkD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Shild1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Comma.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Comma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DWDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DWDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Empty3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Empty3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FindFac.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FindFac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForVar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForVar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Glava5/ArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Glava5/ArrayDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Glava5/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Glava5/Bubble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Glava5/Frame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Glava5/Frame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Glava5/MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Glava5/MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Glava5/MinMax2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Glava5/MinMax2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Glava5/StrOps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Glava5/StrOps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Guess.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Guess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Guess2_0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Guess2_0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Guess3_0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Guess3_0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Guess4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Guess4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Inheritance/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Inheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Inheritance/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Inheritance/Lesson25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Inheritance/Lesson25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/HowWorkWomen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/HowWorkWomen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/Kristina.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/Kristina.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/VehConsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/VehConsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/konstructor04082019/Homo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/konstructor04082019/Homo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/konstructor04082019/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/konstructor04082019/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Ladder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Ladder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson6/MethodOverloding2$MethodOverloding2tTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson6/MethodOverloding2$MethodOverloding2tTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson6/MethodOverloding2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson6/MethodOverloding2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson6/OverLoding$OverLodingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson6/OverLoding$OverLodingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesson6/OverLoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lesson6/OverLoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LogicalOpTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LogicalOpTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NestVar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/NestVar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parag4/ChkNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Parag4/ChkNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parag4/ParamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Parag4/ParamDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parag4/RetMeth2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Parag4/RetMeth2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parag4/Vehicle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Parag4/Vehicle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Perebors100do1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Perebors100do1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RelLogOps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RelLogOps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ScopeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ScopeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scops.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Scops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SqrRot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SqrRot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SwitchDemp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SwitchDemp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Var1intDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Var1intDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WhileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WhileDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractclass/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractclass/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractclass/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractclass/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractclass/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractclass/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractclass/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractclass/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/anonimclass/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/anonimclass/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/anonimclass/AnimalHunter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/anonimclass/AnimalHunter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/anonimclass/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/anonimclass/Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/anonimclass/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/anonimclass/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collection/lesson1/MassivArry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collection/lesson1/MassivArry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dublimass/DelDublMass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dublimass/DelDublMass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/equalsstringpool/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/equalsstringpool/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/equalsstringpool/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/equalsstringpool/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/ABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/ABC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/ErrorExapleNullPoiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/ErrorExapleNullPoiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/ExeptionsTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/ExeptionsTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/chekedandunchekedexeption/Exeption4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/chekedandunchekedexeption/Exeption4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/chekedandunchekedexeption/Exeption5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/chekedandunchekedexeption/Exeption5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/exeptionthee/ExeptionThee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/exeptionthee/ExeptionThee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/exeptionthee/ScanerExeption.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/exeptionparttwo/exeptionthee/ScanerExeption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exeption/twoexeptioninonemethod/Exeption.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exeption/twoexeptioninonemethod/Exeption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/finalprimer/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/finalprimer/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/finalprimer/ErrorMsg$FinalD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/finalprimer/ErrorMsg$FinalD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/finalprimer/ErrorMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/finalprimer/ErrorMsg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/finalprimer/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/finalprimer/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/GenericExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/GenericExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/Tuple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/Tuple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/generics2_0/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/generics2_0/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/generics3_0/BigHead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/generics3_0/BigHead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/generics3_0/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/generics3_0/Body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/generics3_0/MediumHead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/generics3_0/MediumHead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/generics3_0/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/generics3_0/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/generics3_0/SmallHead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/generics3_0/SmallHead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glava6/AccessDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glava6/AccessDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glava6/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glava6/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glava6/MeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glava6/MeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glava6/PassOb.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glava6/PassOb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glava6/Test$CallByRef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glava6/Test$CallByRef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glava6/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glava6/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar$1SomeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar$1SomeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar$Battery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar$Battery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar$Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar$Motor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerclasses/ElectroCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerclasses/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerclasses/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/Messengers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/Messengers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/Swimmable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/Swimmable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/Telegram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/Telegram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/interface2/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/interface2/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/interface2/Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/interface2/Cow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/interface2/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/interface2/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/interface2/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/interface2/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/interface2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/interface2/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/interface2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/interface2/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/interface2/Tolk.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/interface2/Tolk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfase/interface2/theyCanSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfase/interface2/theyCanSay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/keywordsThis/Homosapians.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/keywordsThis/Homosapians.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/keywordsThis/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/keywordsThis/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/massivrepeat/MassivTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/massivrepeat/MassivTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/massivrepeat/Multi_arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/massivrepeat/Multi_arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism1_0/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism1_0/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism1_0/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism1_0/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism1_0/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism1_0/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism1_0/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism1_0/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primitive1_0/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primitive1_0/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primitive1_0/klassiobertki/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primitive1_0/klassiobertki/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/readfromfile/ReadFromFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/readfromfile/ReadFromFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/Example1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/Example1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/Example2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/Example2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatStatic/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatStatic/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatStatic/Lesson21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatStatic/Lesson21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/Babushka.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/Babushka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/BabushkaSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/BabushkaSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/ClassHumanSpeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/ClassHumanSpeak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/setandget/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/setandget/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/setandget/SomeClassForTestSetAndGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/setandget/SomeClassForTestSetAndGet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sortdubl/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sortdubl/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sortdubl/SortDubl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sortdubl/SortDubl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static1/LessonStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static1/LessonStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/str155166/CompFuels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/str155166/CompFuels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/str155166/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/str155166/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stringbilder/Lesson23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stringbilder/Lesson23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upcastingdowncasting/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upcastingdowncasting/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upcastingdowncasting/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upcastingdowncasting/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/upcastingdowncasting/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/upcastingdowncasting/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/writetofile/WriteToFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/writetofile/WriteToFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.exe" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,28 +159,26 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/arraylist/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/collection/l2/LkD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-262">
-              <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+            <state relative-caret-position="255">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
-                <element signature="e#6338#6339#0" expanded="true" />
-                <element signature="e#6406#6407#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,8 +233,12 @@
         <option value="$PROJECT_DIR$/src/main/java/recursion/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/Example1.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/Example2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java" />
         <option value="$PROJECT_DIR$/src/main/java/collection/lesson1/arraylist/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collection/lesson2/linkedlist/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collection/lesson2/linkedlist/Test412.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collection/lesson2/HowW.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collection/l2/LkD.java" />
       </list>
     </option>
   </component>
@@ -109,9 +250,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="460" />
-    <option name="y" value="12" />
-    <option name="width" value="1044" />
+    <option name="x" value="73" />
+    <option name="y" value="7" />
+    <option name="width" value="1146" />
     <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -120,8 +261,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,36 +296,26 @@
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="writetofile" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566851688449" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566936232033" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -201,13 +330,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MassivArry">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Example1" />
+  <component name="RunManager" selected="Application.LkD">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Glava5.ArrayDemo" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="Glava5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +344,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Example2" />
+    <configuration name="HowW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.lesson2.HowW" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="collection.lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LkD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.l2.LkD" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.l2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,25 +383,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalsstringpool.Test" />
+    <configuration name="Test412" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.lesson2.linkedlist.Test412" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equalsstringpool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="writetofile.WriteToFile" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="writetofile.*" />
+          <option name="PATTERN" value="collection.lesson2.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,19 +397,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.WriteToFile" />
-      <item itemvalue="Application.Example1" />
-      <item itemvalue="Application.Example2" />
       <item itemvalue="Application.MassivArry" />
+      <item itemvalue="Application.ArrayDemo" />
+      <item itemvalue="Application.Test412" />
+      <item itemvalue="Application.HowW" />
+      <item itemvalue="Application.LkD" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LkD" />
+        <item itemvalue="Application.HowW" />
         <item itemvalue="Application.MassivArry" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.WriteToFile" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test412" />
+        <item itemvalue="Application.ArrayDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +436,14 @@
       <workItem from="1566245322866" duration="3022000" />
       <workItem from="1566750921304" duration="2000" />
       <workItem from="1566755993609" duration="2612000" />
-      <workItem from="1566851080526" duration="910000" />
+      <workItem from="1566851080526" duration="1224000" />
+      <workItem from="1566931500792" duration="952000" />
+      <workItem from="1566932867617" duration="466000" />
+      <workItem from="1566933434123" duration="603000" />
+      <workItem from="1566934044161" duration="18000" />
+      <workItem from="1566934065585" duration="2000" />
+      <workItem from="1566934081068" duration="10000" />
+      <workItem from="1566934129256" duration="1926000" />
     </task>
     <task id="LOCAL-00001" summary="FIX">
       <created>1565816260082</created>
@@ -327,7 +463,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36984000" />
+    <option name="totallyTimeSpent" value="41275000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,10 +475,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="460" y="12" width="1044" height="858" extended-state="0" />
+    <frame x="73" y="7" width="1146" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35828343" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3713768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -352,17 +488,17 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3485868" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3485868" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -432,9 +568,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/hIho.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/Tuple.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/generics2_0/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/generics2_0/Animal.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/Animaliner.java" />
@@ -676,12 +809,8 @@
     <entry file="file://$PROJECT_DIR$/src/test">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.exe">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test" />
+    <entry file="file://$PROJECT_DIR$/test.exe" />
     <entry file="file://$PROJECT_DIR$/src/main/java/writetofile/WriteToFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -692,6 +821,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/arraylist/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="183" column="71" selection-start-line="183" selection-start-column="71" selection-end-line="183" selection-end-column="71" />
+          <folding>
+            <element signature="e#6338#6339#0" expanded="true" />
+            <element signature="e#6406#6407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Example2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Example1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -699,49 +858,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson2/linkedlist/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Glava5/ArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="118" selection-start-line="7" selection-start-column="118" selection-end-line="7" selection-end-column="118" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson2/linkedlist/Test412.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#276#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Example2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson2/HowW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="120">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/arraylist/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collection/l2/LkD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-262">
-          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
+        <state relative-caret-position="255">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
-            <element signature="e#6338#6339#0" expanded="true" />
-            <element signature="e#6406#6407#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
