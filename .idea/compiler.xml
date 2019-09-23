@@ -9,6 +9,5 @@
         <module name="Shild1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="12" />
   </component>
 </project>

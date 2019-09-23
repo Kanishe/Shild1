@@ -9,8 +9,14 @@ public class Programmer {
   }
 
   int howManyProgrammCreate(){
-    int programscreating = 14;
+    int programscreating = 14*34;
     return programscreating;
+  }
+
+
+  void setHand(int hand,String levelskills){
+    this.hand=hand;
+    this.levelskills=levelskills;
   }
 }
 

@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a80c0f9-433e-422b-a3dd-a1e75be2bdcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/blockinitianal/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/blokcode/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Humenity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Programmer.java" afterDir="false" />
+    <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/HumanKonsructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/getandset/rep1/Cat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/getandset/rep1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Shild1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collection/l2/LkD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collection/l2/LkD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Comma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Comma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Humenity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Humenity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Comma.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Comma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/konstructor04082019/Homo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/konstructor04082019/Homo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/repmethod/Humenity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/repmethod/Humenity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/repmethod/Programmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/repmethod/Programmer.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,30 +26,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ErrorTreeViewConfiguration">
-    <option name="hideWarnings" value="true" />
-    <option name="HIDE_WARNINGS" value="true" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Humenity.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="30">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Programmer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/HumanKonsructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="27" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-39">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -52,15 +68,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,69 +78,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/generics/generics2_0/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/generics/generics2_0/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/anonimclass/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/anonimclass/Animaliner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/anonimclass/AnimalHunter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/anonimclass/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/generics/Robot.java" />
-        <option value="$PROJECT_DIR$/src/main/java/generics/generics3_0/Robot.java" />
-        <option value="$PROJECT_DIR$/src/main/java/generics/generics3_0/BigHead.java" />
-        <option value="$PROJECT_DIR$/src/main/java/generics/generics3_0/Body.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/ErrorExapleNullPoiter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/ABC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/polymorphism1_0/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/readfromfile/ReadFromFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/ExeptionsTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/exeptionthee/ScanerExeption.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/exeptionthee/ExeptionThee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/chekedandunchekedexeption/Exeption4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/chekedandunchekedexeption/Exeption5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exeption/twoexeptioninonemethod/Exeption.java" />
-        <option value="$PROJECT_DIR$/src/main/java/abstractclass/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/abstractclass/Cat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/abstractclass/Dog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/abstractclass/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/equalsstringpool/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/equalsstringpool/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/innerclasses/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/innerclasses/ElectroCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/writetofile/WriteToFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/recursion/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/recursion/Example1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/recursion/Example2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collection/lesson1/arraylist/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collection/lesson2/linkedlist/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collection/lesson2/linkedlist/Test412.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collection/lesson2/HowW.java" />
-        <option value="$PROJECT_DIR$/src/main/java/collection/l2/LkD.java" />
-        <option value="$PROJECT_DIR$/src/main/java/method/ex1/Live.java" />
-        <option value="$PROJECT_DIR$/src/main/java/method/ex2/Live.java" />
-        <option value="$PROJECT_DIR$/src/main/java/method/ex2/ex3parametrimetoda/Live.java" />
-        <option value="$PROJECT_DIR$/src/main/java/method/ex3parametrimetoda/Live.java" />
-        <option value="$PROJECT_DIR$/src/main/java/blokcode/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/blockinitianal/HellowWorld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/blockinitianal/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/repeatmetod/HumanHiger.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Programmer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Humenity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/GetAndSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/MainCat1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/Cat1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/UntitledTestCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/HumanKonsructor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="84" />
-    <option name="y" value="132" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="108" />
+    <option name="y" value="210" />
     <option name="width" value="1146" />
     <option name="height" value="858" />
   </component>
@@ -140,7 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,7 +133,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
@@ -180,7 +141,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
+              <item name="konstructor04082019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
@@ -188,7 +150,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repeatmetod" type="462c0819:PsiDirectoryNode" />
+              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
+              <item name="konstructor04082019" type="462c0819:PsiDirectoryNode" />
+              <item name="Homo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
@@ -196,38 +160,35 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repeatmetod" type="462c0819:PsiDirectoryNode" />
-              <item name="repmethod" type="462c0819:PsiDirectoryNode" />
+              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
+              <item name="repkonstr2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568753523429" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569268315541" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/method/ex2/ex3parametrimetoda" />
-      <recent name="$PROJECT_DIR$/src/main/java/method/ex2" />
-    </key>
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,13 +202,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Humenity">
-    <configuration name="Babushka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repeatmetod.Babushka" />
+  <component name="RunManager" selected="Application.HumanKonsructor">
+    <configuration name="Homo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Konstructor.konstructor04082019.Homo" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repeatmetod.*" />
+          <option name="PATTERN" value="Konstructor.konstructor04082019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,19 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comma" />
-      <module name="Shild1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blockinitianal.HelloWorld" />
+    <configuration name="HumanKonsructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Konstructor.repkonstr2.HumanKonsructor" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="blockinitianal.*" />
+          <option name="PATTERN" value="Konstructor.repkonstr2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,13 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Humenity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="12" />
-      <option name="MAIN_CLASS_NAME" value="repeatmetod.repmethod.Humenity" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getandset.rep1.Main" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repeatmetod.repmethod.*" />
+          <option name="PATTERN" value="getandset.rep1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Live (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.ex3parametrimetoda.Live" />
+    <configuration name="MainCat1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getandset.rep1.MainCat1" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.ex3parametrimetoda.*" />
+          <option name="PATTERN" value="getandset.rep1.Cat1" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,20 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Live (2)" />
-      <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.Humenity" />
-      <item itemvalue="Application.Babushka" />
-      <item itemvalue="Application.Comma" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Humenity" />
-        <item itemvalue="Application.Comma" />
-        <item itemvalue="Application.Babushka" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Live (2)" />
+        <item itemvalue="Application.HumanKonsructor" />
+        <item itemvalue="Application.Homo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainCat1" />
       </list>
     </recent_temporary>
   </component>
@@ -324,561 +269,145 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8a80c0f9-433e-422b-a3dd-a1e75be2bdcd" name="Default Changelist" comment="" />
-      <created>1565539392072</created>
+      <changelist id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="" />
+      <created>1569175851017</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565539392072</updated>
-      <workItem from="1565539393272" duration="2490000" />
-      <workItem from="1565638536092" duration="977000" />
-      <workItem from="1565719617564" duration="8982000" />
-      <workItem from="1566077617964" duration="21000" />
-      <workItem from="1566081146405" duration="216000" />
-      <workItem from="1566081366055" duration="30000" />
-      <workItem from="1566081400341" duration="91000" />
-      <workItem from="1566081603288" duration="107000" />
-      <workItem from="1566082152250" duration="71000" />
-      <workItem from="1566129214083" duration="17453000" />
-      <workItem from="1566245322866" duration="3022000" />
-      <workItem from="1566750921304" duration="2000" />
-      <workItem from="1566755993609" duration="2612000" />
-      <workItem from="1566851080526" duration="1224000" />
-      <workItem from="1566931500792" duration="952000" />
-      <workItem from="1566932867617" duration="466000" />
-      <workItem from="1566933434123" duration="603000" />
-      <workItem from="1566934044161" duration="18000" />
-      <workItem from="1566934065585" duration="2000" />
-      <workItem from="1566934081068" duration="10000" />
-      <workItem from="1566934129256" duration="3055000" />
-      <workItem from="1567015376833" duration="3378000" />
-      <workItem from="1567106197597" duration="488000" />
-      <workItem from="1567110656009" duration="2000" />
-      <workItem from="1567333227897" duration="304000" />
-      <workItem from="1567333536802" duration="515000" />
-      <workItem from="1568749446104" duration="3480000" />
+      <updated>1569175851017</updated>
+      <workItem from="1569175852235" duration="212000" />
+      <workItem from="1569182475335" duration="2575000" />
+      <workItem from="1569265084319" duration="1193000" />
     </task>
-    <task id="LOCAL-00001" summary="FIX">
-      <created>1565816260082</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1565816260082</updated>
-    </task>
-    <task id="LOCAL-00002" summary="FIXм">
-      <created>1566081660221</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1566081660221</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50571000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="3980000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="114" width="1146" height="858" extended-state="0" />
+    <frame x="108" y="210" width="1146" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41304347" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25905797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3485868" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32974428" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32974428" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="FIX" />
-    <MESSAGE value="FIXм" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIXм" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand>
-      <path>
-        <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-        <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism1_0/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/JHS.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/method/dfs.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/MainCat1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/Cat1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism1_0/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism1_0/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism1_0/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        <state relative-caret-position="405">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/readfromfile/ReadFromFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/ExeptionsTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/exeptionthee/ExeptionThee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/exeptionthee/ScanerExeption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/chekedandunchekedexeption/Exeption4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/chekedandunchekedexeption/Exeption5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/twoexeptioninonemethod/Exeption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/equalsstringpool/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#101#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/equalsstringpool/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#65#66#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/AnimalHunter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#116#236#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/innerclasses/ElectroCar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/Tesg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/innerclasses/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/UntitledTestCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test" />
-    <entry file="file://$PROJECT_DIR$/test.exe" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/writetofile/WriteToFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/ArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/arraylist/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="183" column="71" selection-start-line="183" selection-start-column="71" selection-end-line="183" selection-end-column="71" />
-          <folding>
-            <element signature="e#6338#6339#0" expanded="true" />
-            <element signature="e#6406#6407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Example2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/HowWorkWomen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson2/linkedlist/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Glava5/ArrayDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson2/linkedlist/Test412.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson2/HowW.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/lesson1/MassivArry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6/MethodOverloding2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/Kristina.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson6/OverLoding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/method/ex2/Live.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/method/ex3parametrimetoda/Live.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/blokcode/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/blockinitianal/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/method/ex1/Live.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/HumanHiger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/BabushkaSum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collection/l2/LkD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/Babushka.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/HumanKonsructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Comma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Programmer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Humenity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="-39">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -922,7 +451,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>12</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -959,18 +488,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,7 +2,7 @@ package Konstructor.konstructor04082019;
 
 public class Homo {
   public static void main(String[] args) {
-    Person person1=new Person();
+    Person person1=new Person("1");
     System.out.println(person1.getName()+"\n"+person1.getAge());
 
   }
