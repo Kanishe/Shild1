@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/HumanKonsructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/getandset/rep1/Cat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/getandset/rep1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Shild1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exeption/example2/Exeption2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exeption/exaple2/Massive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Comma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Comma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Humenity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Humenity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repeatmetod/repmethod/Programmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Comma.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Comma.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/konstructor04082019/Homo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/konstructor04082019/Homo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/repmethod/Humenity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/repmethod/Humenity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/repeatmetod/repmethod/Programmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repeatmetod/repmethod/Programmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Glava5/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Glava5/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Glava5/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Glava5/Bubble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Konstructor/repkonstr2/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Konstructor/repkonstr2/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Shild1.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,36 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exeption/exaple2/Massive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/HumanKonsructor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exeption/example2/Exeption2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-39">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -87,12 +61,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/HumanKonsructor.java" />
         <option value="$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Glava5/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exeption/exaple2/Massive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exeption/example2/Exeption2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="108" />
-    <option name="y" value="210" />
+    <option name="x" value="103" />
+    <option name="y" value="145" />
     <option name="width" value="1146" />
     <option name="height" value="858" />
   </component>
@@ -102,6 +79,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +111,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
+              <item name="exeption" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
@@ -141,48 +119,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
-              <item name="konstructor04082019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
-              <item name="konstructor04082019" type="462c0819:PsiDirectoryNode" />
-              <item name="Homo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Konstructor" type="462c0819:PsiDirectoryNode" />
-              <item name="repkonstr2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="exeption" type="462c0819:PsiDirectoryNode" />
+              <item name="example2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569268315541" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569780824315" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -202,7 +152,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HumanKonsructor">
+  <component name="RunManager" selected="Application.Exeption2">
+    <configuration name="Bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Glava5.Bubble" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Glava5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exeption2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exeption.example2.Exeption2" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exeption.example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Homo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Konstructor.konstructor04082019.Homo" />
       <module name="Shild1" />
@@ -229,25 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="getandset.rep1.Main" />
+    <configuration name="Massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exeption.exaple2.Massive" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="getandset.rep1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainCat1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="getandset.rep1.MainCat1" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="getandset.rep1.Cat1" />
+          <option name="PATTERN" value="exeption.exaple2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,10 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exeption2" />
+        <item itemvalue="Application.Massive" />
+        <item itemvalue="Application.Bubble" />
         <item itemvalue="Application.HumanKonsructor" />
         <item itemvalue="Application.Homo" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainCat1" />
       </list>
     </recent_temporary>
   </component>
@@ -276,18 +240,19 @@
       <updated>1569175851017</updated>
       <workItem from="1569175852235" duration="212000" />
       <workItem from="1569182475335" duration="2575000" />
-      <workItem from="1569265084319" duration="1193000" />
+      <workItem from="1569265084319" duration="1888000" />
+      <workItem from="1569352094893" duration="160000" />
+      <workItem from="1569771129873" duration="4125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3980000" />
+    <option name="totallyTimeSpent" value="8960000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="210" width="1146" height="858" extended-state="0" />
-    <editor active="true" />
+    <frame x="-10" y="492" width="1146" height="858" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25905797" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26811594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -344,34 +309,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/Tesg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/UntitledTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/Tesg.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/UntitledTestCase.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/HowWorkWomen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -385,15 +328,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -404,10 +339,141 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/blokcode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
+        <state relative-caret-position="60">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/HowWorkWomen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/AnimalHunter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/glava6/AccessDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Glava5/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Glava5/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/Messengers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/method/ex1/Live.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/method/ex3parametrimetoda/Live.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding>
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/ErrorExapleNullPoiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/ABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/exeptionparttwo/ExeptionsTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/exaple2/Massive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/example2/Exeption2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
