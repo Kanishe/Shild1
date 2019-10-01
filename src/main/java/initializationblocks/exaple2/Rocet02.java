@@ -2,10 +2,10 @@ package initializationblocks.exaple2;
 
 class Rocet1{
   Rocet1(){
-    System.out.println("stage 2");
+    System.out.println("stage 2.1");
   }
   {
-    System.out.println("stage 2.1");
+    System.out.println("stage 2");
   }
 }
 

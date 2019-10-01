@@ -1,8 +1,12 @@
 package initializationblocks;
 
-class Parent{
+class Parent {
   static {
     System.out.println("1static parent block");
+  }
+
+  {
+    System.out.println("init block");
   }
 
   Parent(){
