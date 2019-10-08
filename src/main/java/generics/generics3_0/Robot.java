@@ -1,7 +1,10 @@
 package generics.generics3_0;
 
+//TODO Дженерики
+
 public class Robot {
-  public static void main(String[] args) {
-    Robot robot=new Robot();
-  }
+  private Body body;
+  private SmallHead head;
+  private MediumHead mediumHead;
+  private BigHead bigHead;
 }
