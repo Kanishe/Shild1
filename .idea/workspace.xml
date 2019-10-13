@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exeption/example3/Exeptions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/genericex4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/ex2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/ex2/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generics/generics3_0/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/generics3_0/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Shild1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generics/generics3_0/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generics/generics3_0/Robot.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/generics/generics3_0/Robot.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/object/ex2/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="195">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/object/ex2/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -67,12 +78,16 @@
         <option value="$PROJECT_DIR$/src/main/java/equalsstringpool/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/generics/genericex4/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/generics/generics3_0/Robot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/object/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/object/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/object/ex2/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/object/ex2/Animal.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="897" />
-    <option name="y" value="77" />
+    <option name="x" value="176" />
+    <option name="y" value="126" />
     <option name="width" value="1146" />
     <option name="height" value="858" />
   </component>
@@ -82,7 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,7 +129,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractclass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
@@ -122,20 +137,28 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
-              <item name="generics3_0" type="462c0819:PsiDirectoryNode" />
+              <item name="object" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="object" type="462c0819:PsiDirectoryNode" />
+              <item name="ex2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570564496104" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570986673186" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -155,13 +178,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="DelegateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="delegate.examp1.DelegateApp" />
+  <component name="RunManager" selected="Application.Animal">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.ex2.Animal" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="delegate.examp1.*" />
+          <option name="PATTERN" value="object.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="initializationblocks.InitExample" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.Main" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="initializationblocks.*" />
+          <option name="PATTERN" value="object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Animal" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Exeptions1" />
         <item itemvalue="Application.SoftWearStudio" />
-        <item itemvalue="Application.DelegateApp" />
-        <item itemvalue="Application.InitExample" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +273,9 @@
       <workItem from="1569958018297" duration="861000" />
       <workItem from="1570124696660" duration="352000" />
       <workItem from="1570385872738" duration="2492000" />
-      <workItem from="1570562511024" duration="1328000" />
+      <workItem from="1570562511024" duration="1861000" />
+      <workItem from="1570965814652" duration="2000" />
+      <workItem from="1570984399408" duration="2498000" />
     </task>
     <servers />
   </component>
@@ -260,7 +285,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18935000" />
+    <option name="totallyTimeSpent" value="21968000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,10 +297,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="204" y="373" width="1146" height="858" extended-state="0" />
+    <frame x="176" y="126" width="1146" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30253622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -290,7 +315,7 @@
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32974428" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -311,56 +336,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/UntitledTestCase.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/getandset/rep1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/Kristina.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/repkonstr2/HumanKonsructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/blokcode/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/anonimclass/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/konstructor04082019/Homo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Konstructor/HowWorkWomen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -730,10 +705,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/object/Cat.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/generics3_0/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstractclass/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/object/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/object/ex2/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/object/ex2/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
