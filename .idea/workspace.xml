@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/MethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/finalprimer/ex1/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/finalprimer/ex1/Man.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/MethodCall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -76,12 +90,13 @@
         <option value="$PROJECT_DIR$/src/main/java/object/ex2/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/finalprimer/ex1/Man.java" />
         <option value="$PROJECT_DIR$/src/main/java/javarash/level2/MethodCall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="197" />
-    <option name="y" value="100" />
+    <option name="x" value="157" />
     <option name="width" value="1146" />
     <option name="height" value="858" />
   </component>
@@ -91,6 +106,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,16 +138,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finalprimer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finalprimer" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
+              <item name="javarash" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
@@ -140,19 +147,29 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javarash" type="462c0819:PsiDirectoryNode" />
+              <item name="level2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javarash" type="462c0819:PsiDirectoryNode" />
+              <item name="level2" type="462c0819:PsiDirectoryNode" />
+              <item name="level2lesson7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571171467278" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571259013127" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -172,33 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodCall">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object.ex2.Animal" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="object.ex2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object.Main" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="object.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodCall2">
     <configuration name="Man" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="finalprimer.ex1.Man" />
       <module name="Shild1" />
@@ -212,12 +203,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodCall (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javarash.level2.level2lesson7.MethodCall" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javarash.level2.level2lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javarash.level2.MethodCall" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javarash.level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodCall2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javarash.level2.level2lesson7.MethodCall2" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javarash.level2.level2lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodCall2" />
+        <item itemvalue="Application.MethodCall (1)" />
         <item itemvalue="Application.MethodCall" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Man" />
-        <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -272,6 +289,7 @@
       <workItem from="1570984399408" duration="2498000" />
       <workItem from="1571085792959" duration="1203000" />
       <workItem from="1571170379061" duration="1455000" />
+      <workItem from="1571256904701" duration="1462000" />
     </task>
     <servers />
   </component>
@@ -281,7 +299,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24626000" />
+    <option name="totallyTimeSpent" value="26088000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,10 +311,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="197" y="100" width="1146" height="858" extended-state="0" />
+    <frame x="157" y="0" width="1146" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3134058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3188406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -307,7 +325,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -332,26 +350,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/method/ex1/Live.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/method/ex3parametrimetoda/Live.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-          <folding>
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exeption/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -775,12 +773,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/MethodCall.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
