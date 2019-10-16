@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -92,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/main/java/javarash/level2/MethodCall.java" />
         <option value="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall.java" />
         <option value="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall3.java" />
       </list>
     </option>
   </component>
@@ -169,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571259013127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571259447580" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -189,20 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodCall2">
-    <configuration name="Man" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="finalprimer.ex1.Man" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="finalprimer.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodCall3">
     <configuration name="MethodCall (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javarash.level2.level2lesson7.MethodCall" />
       <module name="Shild1" />
@@ -242,6 +238,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodCall3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javarash.level2.level2lesson7.MethodCall3" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javarash.level2.level2lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="finalprimer.Test1" />
       <module name="Shild1" />
@@ -257,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodCall3" />
         <item itemvalue="Application.MethodCall2" />
         <item itemvalue="Application.MethodCall (1)" />
         <item itemvalue="Application.MethodCall" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Man" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +298,7 @@
       <workItem from="1570984399408" duration="2498000" />
       <workItem from="1571085792959" duration="1203000" />
       <workItem from="1571170379061" duration="1455000" />
-      <workItem from="1571256904701" duration="1462000" />
+      <workItem from="1571256904701" duration="2074000" />
     </task>
     <servers />
   </component>
@@ -299,7 +308,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26088000" />
+    <option name="totallyTimeSpent" value="26700000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,13 +359,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/exeption/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exeption/ABC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -787,8 +789,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/level2lesson7/MethodCall3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
