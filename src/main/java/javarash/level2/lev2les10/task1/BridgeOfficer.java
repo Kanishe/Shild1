@@ -1,4 +1,4 @@
-package javarash.level2.lev2les10;
+package javarash.level2.lev2les10.task1;
 
 public class BridgeOfficer {
   int maxWeight;

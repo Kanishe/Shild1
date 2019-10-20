@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/BridgeOfficer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/javarash/level2/lev2les9/homework1/Artifact.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javarash/level2/lev2les9/homework1/Artifact.class" afterDir="false" />
-    </list>
+    <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/BridgeOfficer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="159">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
               <folding>
                 <element signature="e#122#123#0" expanded="true" />
                 <element signature="e#159#160#0" expanded="true" />
@@ -158,6 +153,16 @@
               <item name="javarash" type="462c0819:PsiDirectoryNode" />
               <item name="level2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javarash" type="462c0819:PsiDirectoryNode" />
+              <item name="level2" type="462c0819:PsiDirectoryNode" />
+              <item name="lev2les10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -167,7 +172,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571576231942" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571576676035" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -207,11 +212,11 @@
       </method>
     </configuration>
     <configuration name="BridgeOfficer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les10.BridgeOfficer" />
+      <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les10.task1.BridgeOfficer" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javarash.level2.lev2les10.*" />
+          <option name="PATTERN" value="javarash.level2.lev2les10.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,7 +299,7 @@
       <workItem from="1571170379061" duration="1455000" />
       <workItem from="1571256904701" duration="2200000" />
       <workItem from="1571336437895" duration="5446000" />
-      <workItem from="1571569609594" duration="3695000" />
+      <workItem from="1571569609594" duration="3933000" />
     </task>
     <servers />
   </component>
@@ -304,7 +309,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35967000" />
+    <option name="totallyTimeSpent" value="36205000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,7 +324,7 @@
     <frame x="126" y="0" width="1146" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39402175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39402175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -330,7 +335,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -808,8 +813,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/BridgeOfficer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="159">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
           <folding>
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#159#160#0" expanded="true" />
