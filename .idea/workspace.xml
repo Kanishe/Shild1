@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="" />
+    <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task2/Jarvis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task3/TimeMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task1/BridgeOfficer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task1/BridgeOfficer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javarash/level2/lev2les10/BridgeOfficer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javarash/level2/lev2les10/Truck.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,23 +19,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/Truck.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task3/TimeMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="360">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/BridgeOfficer.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task3/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            <state relative-caret-position="120">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,11 +103,16 @@
         <option value="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les9/homework1/Artifact.java" />
         <option value="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/Truck.java" />
         <option value="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/BridgeOfficer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task2/Jarvis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task1/BridgeOfficer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task3/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task3/TimeMachine.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
+    <option name="x" value="87" />
+    <option name="y" value="45" />
     <option name="width" value="1146" />
     <option name="height" value="858" />
   </component>
@@ -109,8 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,16 +174,29 @@
               <item name="level2" type="462c0819:PsiDirectoryNode" />
               <item name="lev2les10" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javarash" type="462c0819:PsiDirectoryNode" />
+              <item name="level2" type="462c0819:PsiDirectoryNode" />
+              <item name="lev2les10" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571576676035" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571690215347" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -197,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BridgeOfficer">
+  <component name="RunManager" selected="Application.TimeMachine">
     <configuration name="Artifact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les9.homework1.Artifact" />
       <module name="Shild1" />
@@ -237,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les9.Cat" />
+    <configuration name="Jarvis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les10.task2.Jarvis" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javarash.level2.lev2les9.*" />
+          <option name="PATTERN" value="javarash.level2.lev2les10.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileCopy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les9.FileCopy2" />
+    <configuration name="TimeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les10.task3.TimeMachine" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javarash.level2.lev2les9.*" />
+          <option name="PATTERN" value="javarash.level2.lev2les10.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeMachine" />
+        <item itemvalue="Application.Jarvis" />
         <item itemvalue="Application.BridgeOfficer" />
         <item itemvalue="Application.Artifact" />
         <item itemvalue="Application.Cat (1)" />
-        <item itemvalue="Application.Cat" />
-        <item itemvalue="Application.FileCopy2" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +323,8 @@
       <workItem from="1571170379061" duration="1455000" />
       <workItem from="1571256904701" duration="2200000" />
       <workItem from="1571336437895" duration="5446000" />
-      <workItem from="1571569609594" duration="3933000" />
+      <workItem from="1571569609594" duration="7605000" />
+      <workItem from="1571689200253" duration="811000" />
     </task>
     <servers />
   </component>
@@ -309,7 +334,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36205000" />
+    <option name="totallyTimeSpent" value="40688000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,10 +346,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="0" width="1146" height="858" extended-state="0" />
+    <frame x="87" y="54" width="1146" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39402175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40126812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -335,7 +360,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -392,27 +417,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/delegate/examp1/DelegateApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/interface2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/Messengers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interfase/Swimmable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -779,6 +783,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task1/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les9/catwhisconstructor/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -788,37 +806,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les9/homework1/Artifact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="145" selection-start-line="7" selection-start-column="145" selection-end-line="7" selection-end-column="145" />
+        <state relative-caret-position="420">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task1/BridgeOfficer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/Truck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/BridgeOfficer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        <state relative-caret-position="435">
+          <caret line="29" column="69" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
           <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task2/Jarvis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task3/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javarash/level2/lev2les10/task3/TimeMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>

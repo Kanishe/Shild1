@@ -6,7 +6,7 @@ public class BridgeOfficer {
     this.maxWeight=normalVolume;
   }
   public boolean checkTruck(Truck truck){
-    if (truck.width>maxWeight){
+    if (truck.weight>maxWeight){
       System.out.println("Разворачивайся, перевес!");
       return false;
     }else {
@@ -17,9 +17,9 @@ public class BridgeOfficer {
 
   public static void main(String[] args) {
     Truck firstTrack=new Truck();
-    firstTrack.width=10000;
+    firstTrack.weight=10000;
     Truck secondTrack=new Truck();
-    secondTrack.width=20000;
+    secondTrack.weight=20000;
 
     BridgeOfficer bridgeOfficer=new BridgeOfficer(15000);
     System.out.println("Грузовик номер 1! Могу я проехать, офицер?");
