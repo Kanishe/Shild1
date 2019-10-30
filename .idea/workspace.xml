@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f05123be-36e1-4aa2-81f6-57c993807408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collection/ver2/TestCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/habr/z1_1/Bouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/habr/z1_1/Massive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,15 +29,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/collection/ver2/TestCollections.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/habr/z1_1/Massive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#135#143#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/habr/z1_1/Bouble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sortdubl/SortDubl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -62,9 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/GetAndSet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/MainCat1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/Cat1.java" />
         <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/getandset/rep1/UntitledTestCase.java" />
@@ -113,6 +125,9 @@
         <option value="$PROJECT_DIR$/src/main/java/clickjavarush/UntitledTestCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/clickjavarush/ClickerJavaRush.java" />
         <option value="$PROJECT_DIR$/src/main/java/collection/ver2/TestCollections.java" />
+        <option value="$PROJECT_DIR$/src/main/java/habr/z1_1/Bable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/habr/z1_1/Massive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/habr/z1_1/Bouble.java" />
       </list>
     </option>
   </component>
@@ -133,7 +148,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="162" />
+    <option name="x" value="256" />
+    <option name="y" value="70" />
     <option name="width" value="1244" />
     <option name="height" value="858" />
   </component>
@@ -144,7 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -177,14 +192,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="clickjavarush" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,16 +203,42 @@
               <item name="collection" type="462c0819:PsiDirectoryNode" />
               <item name="ver2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="habr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="habr" type="462c0819:PsiDirectoryNode" />
+              <item name="z1_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shild1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shild1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sortdubl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572206524252" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572468207748" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -233,13 +266,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestCollections">
-    <configuration name="ClassAndObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les10.task4.ClassAndObjects" />
+  <component name="RunManager" selected="Application.Bouble">
+    <configuration name="Bouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="habr.z1_1.Bouble" />
       <module name="Shild1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javarash.level2.lev2les10.task4.*" />
+          <option name="PATTERN" value="habr.z1_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="habr.z1_1.Massive" />
+      <module name="Shild1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="habr.z1_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,19 +299,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collection.ver2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javarash.level2.lev2les10.task3.TimeMachine" />
-      <module name="Shild1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javarash.level2.lev2les10.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bouble" />
+        <item itemvalue="Application.Massive" />
         <item itemvalue="Application.TestCollections" />
         <item itemvalue="TestNG.ClickerJavaRush.oprosOk" />
         <item itemvalue="TestNG.ClickerJavaRush" />
-        <item itemvalue="Application.ClassAndObjects" />
-        <item itemvalue="Application.TimeMachine" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +381,9 @@
       <workItem from="1571693879701" duration="16000" />
       <workItem from="1571945727036" duration="77000" />
       <workItem from="1571945968366" duration="2687000" />
-      <workItem from="1572206358866" duration="669000" />
+      <workItem from="1572206358866" duration="724000" />
+      <workItem from="1572463600870" duration="1922000" />
+      <workItem from="1572467008717" duration="1158000" />
     </task>
     <servers />
   </component>
@@ -370,7 +405,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47026000" />
+    <option name="totallyTimeSpent" value="50161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,10 +417,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="162" y="0" width="1244" height="858" extended-state="0" />
+    <frame x="256" y="70" width="1244" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3951747" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22462562" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -402,7 +437,7 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32974428" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32974428" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -457,48 +492,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/interface2/theyCanSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/expl3/BeerDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/expl3/JavaEngineer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfase/expl3/QAEngineer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interfase/expl3/SoftWearStudio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -853,14 +846,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/habr/z1_1/Bable.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/collection/ver2/TestCollections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#135#143#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/habr/z1_1/Massive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sortdubl/SortDubl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/habr/z1_1/Bouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
